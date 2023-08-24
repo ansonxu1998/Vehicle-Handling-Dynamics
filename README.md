@@ -28,7 +28,7 @@
 
 ![](/img/2-4.png)
 
-> 使用 Matlab-Simulink 软件进行侧向风作用下的车辆运动仿真，其中风速为 25$m/s$，作用时间为 0.4$s$，车辆的行驶速度为 40$m/s$。
+> 使用 Matlab-Simulink 软件进行侧向风作用下的车辆运动仿真，其中风速为 25 $m/s$，作用时间为 0.4 $s$，车辆的行驶速度为 40 $m/s$。
 
 仿真中车辆参数的设置：`twoDOFmodel_side_wind_gust_Param.m`
 
