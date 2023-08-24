@@ -1,4 +1,4 @@
-> 使用 Matlab-Simulink 对车辆阶跃转向输入下的响应进行仿真，其中 $\delta=0.04rad$，车速分别为 60$km/h$、100$km/h$、140$km/h$，车辆参数：$m=1500kg$，$I=2500kg\cdot m^2$，$l_f=1.1m$，$l_r=1.6m$，$K_f=55kN/rad$，$K_r=60kN/rad$。
+> 使用 Matlab-Simulink 对车辆阶跃转向输入下的响应进行仿真，其中 $\delta=0.04rad$，车速分别为 60 $km/h$、100 $km/h$、140 $km/h$，车辆参数： $m=1500kg$， $I=2500kg\cdot m^2$， $l_f=1.1m$， $l_r=1.6m$， $K_f=55kN/rad$， $K_r=60kN/rad$。
 
 仿真中车辆参数的设置：`bicyclemodle_stepParam.m`
 
